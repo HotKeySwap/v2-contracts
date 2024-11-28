@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tao-dex/router.sol": "TransferHelper"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tao-dex/router.sol": {
+			"keccak256": "0xc927384628ed9eacf452d65100b16eca145328055fde578d74776b4d44dfa0b5",
+			"urls": [
+				"bzz-raw://c4dba7165b0d39ba931f0ded6041dfc6693ab844136349cbd144e3c4e85919fe",
+				"dweb:/ipfs/QmQW9U6HGCbYcVeXbCnppjZhcEFM5DRbiCcipKpLpeywPr"
+			]
+		}
+	},
+	"version": 1
+}

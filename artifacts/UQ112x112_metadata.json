@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tao-dex/factory.sol": "UQ112x112"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tao-dex/factory.sol": {
+			"keccak256": "0x23e7e85ea8495f7fcdf8c996c38a6b037611fefab332dfccbc218856c5d650d8",
+			"urls": [
+				"bzz-raw://5ef503a2a8bda58f80ffe077a9c870b802985acd2281af1b17c0b91c272f0629",
+				"dweb:/ipfs/QmTbzvymEwYPcKecoHsoCbwxDNhPcnKnYdQZTNU4cgiPpH"
+			]
+		}
+	},
+	"version": 1
+}
